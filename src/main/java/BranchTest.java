@@ -7,5 +7,6 @@ public class BranchTest {
         System.out.println("分支测试");
         System.out.println("分支测试");
         System.out.println("分支测试令狐冲测试");
+        System.out.println("新的branch");
     }
 }
